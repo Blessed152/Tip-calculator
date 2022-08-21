@@ -1,22 +1,5 @@
 <html lang="en">
   <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148346872-4"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'UA-148346872-4');
-	</script>
-	<!---Andys code--->
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9000386115311471"
-	crossorigin="anonymous"></script>
-	<!---Andys code--->
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1537286482212121"
-	crossorigin="anonymous"></script>
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1537286482212121"
-	crossorigin="anonymous"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="title" content="Tip Calculator South Africa">
